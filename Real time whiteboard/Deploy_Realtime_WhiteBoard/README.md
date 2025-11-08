@@ -1,7 +1,7 @@
 # Deploy Realtime WhiteBoard
 The Realtime WhiteBoard project is a collaborative web-based application that allows multiple users to draw and interact on a shared digital canvas in real-time. The platform mimics a physical whiteboard, making it an excellent tool for remote collaboration, brainstorming, or teaching.
 
-Live Demo https://akhileshyadav7007.github.io/Deploy_Realtime_WhiteBoard/
+
 
 ### Simlpe WhiteBoard:
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/02450653-6726-4f06-be5b-14d1e992171b" />
@@ -31,8 +31,7 @@ To set up the project locally, follow these steps:
 Clone the repository:
 bash
 
-Copy code
-git clone https://github.com/AkhileshYadav7007/Deploy_Realtime_WhiteBoard.git
+
 Navigate to the project directory:
 bash
 
@@ -174,3 +173,4 @@ git push origin feature/AmazingFeature
 Open a pull request to merge your feature.
 License
 This project is open-source and available under the MIT License.
+
